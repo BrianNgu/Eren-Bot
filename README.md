@@ -1,3 +1,4 @@
+![alt text](https://pbs.twimg.com/media/EZORBIsUMAEVk8H.jpg)
 # Eren-Bot
 My friends and I always had these bots in our discord that has many different commands. Some that we use a lot, and some that we never touch and are pointless. Marlon and I thought it would be cool for us to have a bot that has commands that we can actually use every single day. We also always wondered what it takes to create a discord bot and if its actually worth spending time to create.
 
