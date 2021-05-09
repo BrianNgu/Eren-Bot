@@ -12,7 +12,7 @@ In order to run this program on your computer, you will need to have ffmpeg inst
 !activeCases - outputs number of active cases in Ontario<br/>!totalVaccines - outputs total number of distributed vaccines in Ontario<br/>!totalDeaths - outputs total number of deaths in Ontario
 
 # Starwars Commands
-!yoda - outputs inspirational Yoda quote<br/>!darthvader - outputs angry yet deep Darth Vader quote<br/>!palpatine - outputs profound Palpatine quote<br/>!obiwan - outputs sophisticated Obi-Wan quote
+!yoda - outputs inspirational Yoda quote<br/>!darthvader - outputs enraged yet deep Darth Vader quote<br/>!palpatine - outputs profound Palpatine quote<br/>!obiwan - outputs sophisticated Obi-Wan quote
 
 # Miscellaneous Commands
 !anime - outputs suggested anime and its rating from MyAnimeList.net<br/>!meme - ouputs a funny meme png<br/>!dog - outputs dog joke along with a cute dog photo
